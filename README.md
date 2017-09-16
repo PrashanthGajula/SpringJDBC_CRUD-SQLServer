@@ -17,3 +17,5 @@ CREATE TABLE ride (
 );
 
 ALTER TABLE ride ADD ride_date DATETIME;
+
+Reference: https://app.pluralsight.com/library/courses/building-applications-spring-jdbc/table-of-contents
